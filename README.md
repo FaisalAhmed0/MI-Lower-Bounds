@@ -1,5 +1,5 @@
 # MI-Lower-Bounds
-This repo. contains a Pytorch implementation of four MI lower bounds based on the paper https://arxiv.org/pdf/1905.06922.pdf and the notebook https://github.com/google-research/google-research/blob/master/vbmi/vbmi_demo.ipynb \\
+This repo. contains a Pytorch implementation of four Mutual Information (MI) lower bounds based on the paper https://arxiv.org/pdf/1905.06922.pdf and the notebook https://github.com/google-research/google-research/blob/master/vbmi/vbmi_demo.ipynb \\
 
 The definition of mutual information is </br>
 <img src="https://latex.codecogs.com/svg.image?I(X;Y)&space;=&space;E_{p(x,y)}\Big[log&space;\frac{p(x,y)}{p(x)p(y)}\Big]" title="I(X;Y) = E_{p(x,y)}\Big[log \frac{p(x,y)}{p(x)p(y)}\Big]" /> </br>
